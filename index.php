@@ -9,7 +9,6 @@
 </head>
 <body>
 	<div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 bg-white border-bottom shadow-sm">
-		<h1>Заполните форму</h1>
 	</div>
 	<div class="container">
 		<form action="form_handler.php" method="POST">
